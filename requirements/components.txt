@@ -1,6 +1,0 @@
-Arduino Uno
-Ultrasonic Sensor
-Servo Motor / Motor
-Jumper Wires
-Switch                  
-Battery
