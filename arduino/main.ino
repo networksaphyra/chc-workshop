@@ -33,6 +33,7 @@ void dispense_soap() {
     micro_servo.write(90);
     delay(SOAP_DURATION);
     micro_servo.write(0);
+    delay(SOAP_DURATION);
 }
 
 void setup() {
